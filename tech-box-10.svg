@@ -1,0 +1,17 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="60" viewBox="0 0 250 60">
+    <style>
+        .roboto { font-family: 'Roboto', sans-serif; font-weight: bold; font-size: 20px; }
+    </style>
+    <!-- Background rectangle -->
+    <rect width="250" height="60" rx="10" ry="10" fill="rgb(62, 76, 89)" />
+
+    <!-- Group for image and text -->
+    <g transform="translate(62, 12)">
+        <!-- Conditionally insert image or SVG content -->
+        <image href="data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAaVBMVEX///8AAACxsbGlpaW6urrv7++urq5WVlaGhobFxcXk5OTIyMjs7OzT09O8vLwQEBApKSlvb29OTk5JSUlwcHBXV1djY2PZ2dmfn59ERESpqaldXV09PT0/Pz+bm5t9fX2RkZE0NDQZGRl2t9nRAAACcUlEQVR4nO3a21LiQBCAYTvEgOEgoHISRXz/h9wNaLEownSzVk+n/u+ai/4ryUxIcnMDAAAAAAAAAAAAAAAAAAAAAAAAAEAbDYZlURTl8NZ7kF8xWD3LwaxqW+XoQb7q3nkP9R+V99/6GuO2NNbrk32749iKc3X1Y1+j9B7vepOzgSI97wGvNb0QKDLxHvE635fQliU+JgSGPlE7SYGBl5s6MVAk6qbx8z74Vdd7VJsiOVAk5t2NIlDG3sNalJrCkAfxRVX45D2uXvpCuhdvOU3dCz9V3gOrdZWFM++B1ZSBIt4Da2kvQ5GB98hKfXXh0HtkpYW6MNrt90xdWHiPrKQOjFY4b33hq74w2HU41hfGWksNJ2mw/TDtCdQx75lVbg2Bz95Dq2wMhSvvoTUGhsBYl6H2j1PjwXtojZHlEI68p1awLDNy7z21xtJSGOmGxrKOytp7agXtA6i92nvsdJon+Qcd77HTVabAQK9I30yBgbZC/ZOLWIHz058FXRLnFO2Z+mThPfeHejI//wPbEiPbbLaJvwGzM43Vuy0wo4dPu21uuzr5BmxoPD/XGfUdNvLlW/+osi43tvVlusjm/Nw7ulXpPvYWnc5rb7JNinlqfv2vqp9ZXcN2M9Ycqyjv562Ffe/Bk9kKl95jK5gKIwXaCr2HVrEUxrkGG4bCqffMOobCKNvEB0Oh98hK+sJo36npC6N9u60vDPT4bIdCCvNHIYX5o5DC/FFIYf4opDB/FFKYPwopzB+FFOaPQgrzRyGF+aOQwvxRSGH+9B+q5/INfqq6KnSqC9/2AwAAAAAAAAAAAAAAAAAAAAAAAACQvz+jABzzwqAgUwAAAABJRU5ErkJggg==" x="0" y="0" height="36" width="36" />
+
+        <!-- Centered Text next to Image -->
+        <text x="51" y="18" class="roboto" fill="white" alignment-baseline="middle" text-anchor="start">Render</text>
+    </g>
+</svg>

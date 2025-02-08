@@ -1,0 +1,17 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="60" viewBox="0 0 250 60">
+    <style>
+        .roboto { font-family: 'Roboto', sans-serif; font-weight: bold; font-size: 20px; }
+    </style>
+    <!-- Background rectangle -->
+    <rect width="250" height="60" rx="10" ry="10" fill="rgb(62, 76, 89)" />
+
+    <!-- Group for image and text -->
+    <g transform="translate(62, 12)">
+        <!-- Conditionally insert image or SVG content -->
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBkPSJNMTE0IDEzLjlDMTE0IDcuMyAxMDguNyAyIDEwMi4xIDJIMjUuOUMxOS4zIDIgMTQgNy4zIDE0IDEzLjl2MTAwLjNjMCA2LjYgNS4zIDExLjkgMTEuOSAxMS45aDc2LjNjNi42IDAgMTEuOS01LjMgMTEuOS0xMS45VjEzLjl6bS00IC4xdjk5LjNjMCA0LjctMy41IDguNy04LjIgOC43SDI2LjVjLTQuNyAwLTguNS00LTguNS04LjdWMTRjMC00LjcgMy45LTggOC41LThoNzUuMmM0LjcgMCA4LjQgMy42IDguNCA4LjNsLS4xLS4zem0tNzMgOTQuN2wxNC4xLTE0LjFMMzcgODAuNXptMTQtNjAuOVYxOC40bC0xMy45LjFzLjEgNDUuOS4yIDQ1LjdDODAuMSA0Ny41IDc3IDU5LjQgNzcgNTkuNHY0OS40bC0uMS4ySDkwVjU5LjVjMC0yNy4xLTM5LTExLjctMzktMTEuN3pNNzAgMzZoMTQuOGM4LTEwIDEwLjctMTcgMTAuNy0xN0g4MC4yUzc1LjMgMzAgNzAgMzZ6IiBmaWxsPSIjNjc2MkE2Ii8+PC9zdmc+" x="0" y="0" height="36" width="36" />
+
+        <!-- Centered Text next to Image -->
+        <text x="51" y="18" class="roboto" fill="white" alignment-baseline="middle" text-anchor="start">Heroku</text>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="60" viewBox="0 0 250 60">
+    <style>
+        .roboto { font-family: 'Roboto', sans-serif; font-weight: bold; font-size: 20px; }
+    </style>
+    <!-- Background rectangle -->
+    <rect width="250" height="60" rx="10" ry="10" fill="rgb(62, 76, 89)" />
+
+    <!-- Group for image and text -->
+    <g transform="translate(47, 12)">
+        <!-- Conditionally insert image or SVG content -->
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48ZyBmaWxsPSIjMDEwMTAxIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjxwYXRoIHN0eWxlPSJsaW5lLWhlaWdodDpub3JtYWw7Zm9udC12YXJpYW50LWxpZ2F0dXJlczpub3JtYWw7Zm9udC12YXJpYW50LXBvc2l0aW9uOm5vcm1hbDtmb250LXZhcmlhbnQtY2Fwczpub3JtYWw7Zm9udC12YXJpYW50LW51bWVyaWM6bm9ybWFsO2ZvbnQtdmFyaWFudC1hbHRlcm5hdGVzOm5vcm1hbDtmb250LXZhcmlhbnQtZWFzdC1hc2lhbjpub3JtYWw7Zm9udC1mZWF0dXJlLXNldHRpbmdzOm5vcm1hbDtmb250LXZhcmlhdGlvbi1zZXR0aW5nczpub3JtYWw7dGV4dC1pbmRlbnQ6MDt0ZXh0LWFsaWduOnN0YXJ0O3RleHQtZGVjb3JhdGlvbi1saW5lOm5vbmU7dGV4dC1kZWNvcmF0aW9uLXN0eWxlOnNvbGlkO3RleHQtZGVjb3JhdGlvbi1jb2xvcjojMDAwO3RleHQtdHJhbnNmb3JtOm5vbmU7dGV4dC1vcmllbnRhdGlvbjptaXhlZDt3aGl0ZS1zcGFjZTpub3JtYWw7c2hhcGUtcGFkZGluZzowO3NoYXBlLW1hcmdpbjowO2lubGluZS1zaXplOjA7aXNvbGF0aW9uOmF1dG87bWl4LWJsZW5kLW1vZGU6bm9ybWFsO3NvbGlkLWNvbG9yOiMwMDA7c29saWQtb3BhY2l0eToxIiBkPSJNNjMuOTUxLjAwMUMyOC42OTYuMDAxLjAwMSAyOC42OTYuMDAxIDYzLjk1MXMyOC42OTUgNjMuOTUgNjMuOTUgNjMuOTUgNjMuOTUtMjguNjk1IDYzLjk1LTYzLjk1Uzk5LjIwNi4wMDEgNjMuOTUuMDAxem0wIDEwLjY3OWMyOS40ODQgMCA1My4yNzIgMjMuNzg3IDUzLjI3MiA1My4yNzEgMCAyOS40ODUtMjMuNzg4IDUzLjI3Mi01My4yNzIgNTMuMjcyLTI5LjQ4NCAwLTUzLjI3Mi0yMy43ODctNTMuMjcyLTUzLjI3MiAwLTI5LjQ4NCAyMy43ODgtNTMuMjcxIDUzLjI3Mi01My4yNzF6IiBjb2xvcj0iIzAwMCIgZm9udC13ZWlnaHQ9IjQwMCIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIG92ZXJmbG93PSJ2aXNpYmxlIiBmaWxsLXJ1bGU9Im5vbnplcm8iLz48cGF0aCBkPSJNNDguMzkgNjAuNzE2YzE0LjAwNC0xMS40NCAyNy43MDItMjMuMjc4IDQyLjAxMS0zNC4zODQtNy41MDUgMTEuNTMzLTE1LjIyNCAyMi45MTMtMjIuNzI5IDM0LjQ0NS02LjQzNy4wMy0xMi44NzUuMDMtMTkuMjgyLS4wNjF6TTYwLjIyOCA2Ny4wOTJjNi40NjggMCAxMi45MDUgMCAxOS4zNDIuMDkyLTE0LjA5NSAxMS4zOC0yNy43MzIgMjMuMzA5LTQyLjA3MSAzNC4zODQgNy41MDUtMTEuNTMzIDE1LjIyNC0yMi45NDMgMjIuNzI5LTM0LjQ3NnoiLz48L2c+PC9zdmc+Cg==" x="0" y="0" height="36" width="36" />
+
+        <!-- Centered Text next to Image -->
+        <text x="51" y="18" class="roboto" fill="white" alignment-baseline="middle" text-anchor="start">Socket.io</text>
+    </g>
+</svg>
